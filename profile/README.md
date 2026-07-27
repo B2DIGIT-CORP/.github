@@ -1,3 +1,3 @@
-## Hello 👋
+# Hello 👋
 
-# Bienvenue sur le Github de B2DIGIT
+## Bienvenue sur le Github de B2DIGIT
